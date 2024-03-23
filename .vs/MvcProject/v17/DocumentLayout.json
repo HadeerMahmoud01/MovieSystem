@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\services\\actorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\services\\actorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\actor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\actor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\actor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\actor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\services\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\services\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\actor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\actor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\data\\dto\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\data\\dto\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\data\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\data\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\data\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\data\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\controllers\\producercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\views\\producer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\views\\producer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\migrations\\20240311232645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\migrations\\20240311232645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\models\\actor_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|g:\\desktop\\post iti\\mvc\\mvcproject\\mvcproject\\migrations\\20240319005628_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F54E27D-B977-46F8-B341-30EE03365BCA}|MvcProject\\MvcProject.csproj|solutionrelative:mvcproject\\migrations\\20240319005628_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Actor\\Delete.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Delete.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Actor\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T00:56:23.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Controllers\\ActorController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "MvcProject\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:28:23.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorServices.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Services\\ActorServices.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Services\\ActorServices.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Services\\ActorServices.cs",
+              "RelativeToolTip": "MvcProject\\Services\\ActorServices.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:11:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Actor\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Index.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Actor\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T21:44:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Actor\\Create.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Create.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Actor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T23:29:28.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Actor\\Details.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Details.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Actor\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T01:56:36.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Cinema\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Cinema\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Cinema\\Index.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Cinema\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T22:59:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Program.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Program.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Program.cs",
+              "RelativeToolTip": "MvcProject\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Services\\IActorService.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Services\\IActorService.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Services\\IActorService.cs",
+              "RelativeToolTip": "MvcProject\\Services\\IActorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:06:45.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcProject\\appsettings.json",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\appsettings.json",
+              "RelativeToolTip": "MvcProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T20:10:36.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Actor\\Edit.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Actor\\Edit.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Actor\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T23:06:48.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActorDto.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\Dto\\ActorDto.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Data\\Dto\\ActorDto.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\Dto\\ActorDto.cs",
+              "RelativeToolTip": "MvcProject\\Data\\Dto\\ActorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:01:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Controllers\\AccessController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "MvcProject\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:02:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Login.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Login.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:00:03.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Producer.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Producer.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Register.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Register.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:01:00.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\User.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\User.cs",
+              "RelativeToolTip": "MvcProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:10:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Access\\Login.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T23:53:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T22:01:18.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240319005628_auth.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Migrations\\20240319005628_auth.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Migrations\\20240319005628_auth.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Migrations\\20240319005628_auth.cs",
+              "RelativeToolTip": "MvcProject\\Migrations\\20240319005628_auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:56:28.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Controllers\\CinemaController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "MvcProject\\Controllers\\CinemaController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:43:38.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Data\\MovieCategory.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\MovieCategory.cs",
+              "RelativeToolTip": "MvcProject\\Data\\MovieCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MvcProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Movie.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Movie.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T23:21:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Data\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Data\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "MvcProject\\Data\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T00:23:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Actor.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Actor.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcProject\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAABRwCEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T22:29:28.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Controllers\\MovieController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MvcProject\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:44:38.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProducerController.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\ProducerController.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Controllers\\ProducerController.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Controllers\\ProducerController.cs",
+              "RelativeToolTip": "MvcProject\\Controllers\\ProducerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:44:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Cinema.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Cinema.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:10:36.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Producer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProject\\Views\\Producer\\Index.cshtml",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Views\\Producer\\Index.cshtml",
+              "RelativeToolTip": "MvcProject\\Views\\Producer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T22:46:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240311232645_InitialCreate.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Migrations\\20240311232645_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Migrations\\20240311232645_InitialCreate.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Migrations\\20240311232645_InitialCreate.cs",
+              "RelativeToolTip": "MvcProject\\Migrations\\20240311232645_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:26:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Actor_Movie.cs",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Actor_Movie.cs",
+              "RelativeDocumentMoniker": "MvcProject\\Models\\Actor_Movie.cs",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\Models\\Actor_Movie.cs",
+              "RelativeToolTip": "MvcProject\\Models\\Actor_Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:51:23.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvcProject\\appsettings.Development.json",
+              "ToolTip": "G:\\Desktop\\Post ITI\\MVC\\MvcProject\\MvcProject\\appsettings.Development.json",
+              "RelativeToolTip": "MvcProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T20:10:36.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

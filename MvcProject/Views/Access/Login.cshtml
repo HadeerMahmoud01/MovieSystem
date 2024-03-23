@@ -1,0 +1,34 @@
+﻿@using MvcProject.Data.Dto
+@using AutoMapper
+@model Login
+
+@{
+    ViewData["Title"] = "Add An Actor";
+}
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group text-center">
+                <img id="ProfilePicturePreview" class="border-info rounded-circle" style="max-width: 150px" />
+            </div>
+           
+            <div class="form-group">
+                <label asp-for="Email" class="form-control"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="form-control"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="form-group">
+                <input class="btn btn-outline-success float-right" type="submit" value="Create" />
+                <a asp-action="Index" class="btn btn-outline-secondary">Show All</a>
+            </div>
+        </form>
+    </div>
+</div>
